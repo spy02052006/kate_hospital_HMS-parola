@@ -76,3 +76,4 @@ If the hospital wants requests saved in a database or emailed automatically, a b
 - The original project files (`assets/`, `hos/`, `index.html`, `styles.css`, `script.js`, and the other notes) were left unchanged. This folder is a separate build.
 # kate_hospital_HMS-parola
 # kate_hospital_HMS-parola
+# kate_hospital_HMS-parola
